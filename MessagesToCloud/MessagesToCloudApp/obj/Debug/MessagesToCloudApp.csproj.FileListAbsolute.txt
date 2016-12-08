@@ -1,0 +1,8 @@
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\bin\Debug\MessagesToCloudApp.exe.config
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\bin\Debug\MessagesToCloudApp.exe
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\bin\Debug\MessagesToCloudApp.pdb
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\obj\Debug\MessagesToCloudApp.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\obj\Debug\MessagesToCloudApp.exe
+C:\Users\dmitr\Desktop\Projects\IotLab\MessagesToCloud\MessagesToCloudApp\obj\Debug\MessagesToCloudApp.pdb
